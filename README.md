@@ -18,7 +18,7 @@ This project uses a `Makefile` to manage common tasks. Below are the available `
 
 ### Makefile Targets
 
-- `make setup-env`: Setup Virtual Env
+- `make setup-venv`: Setup Virtual Env
 - `make run-acp`: Start the weekend activity planner agent.
 - `make run-client`: Run tests for the agent and its sub-agents.
 
